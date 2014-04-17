@@ -1,4 +1,4 @@
-This is the project for creating the google-homepage
+This is the project for creating the google-homepage.
 ===============
 
-The project is sponsered by 
+The project is sponsered by theodinproject.com
